@@ -1,0 +1,29 @@
+{
+  "name": "study2",
+  "version": "1.0.0",
+  "description": "my study note and mores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulderu/study2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "study",
+    "express"
+  ],
+  "author": "mulderu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulderu/study2/issues"
+  },
+  "homepage": "https://github.com/mulderu/study2#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "express": "^4.16.4",
+    "vhost": "^3.0.2"
+  }
+}
